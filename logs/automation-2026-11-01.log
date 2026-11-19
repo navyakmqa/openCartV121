@@ -1,0 +1,32 @@
+15:14:43.487 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:52)oggger - Registration failed
+15:14:47.584 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:16)oggger - **** TC002_LoginTest started ****
+15:14:48.046 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:25)oggger - Entering login details
+15:14:49.451 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:34)oggger - Login successful
+15:14:49.451 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:48)oggger - **** TC002_LoginTest finished ****
+15:15:30.135 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+15:15:30.609 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:27)oggger - Clicked on Register
+15:15:30.615 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:31)oggger - Entering registration details
+15:15:32.693 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:52)oggger - Registration failed
+15:15:35.542 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:16)oggger - **** TC002_LoginTest started ****
+15:15:35.959 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:25)oggger - Entering login details
+15:15:37.787 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:34)oggger - Login successful
+15:15:37.788 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:48)oggger - **** TC002_LoginTest finished ****
+15:21:18.318 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+15:21:19.110 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:27)oggger - Clicked on Register
+15:21:19.120 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:31)oggger - Entering registration details
+15:21:23.155 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:52)oggger - Registration failed
+15:21:25.566 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:16)oggger - **** TC002_LoginTest started ****
+15:21:25.964 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:25)oggger - Entering login details
+15:21:28.385 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:34)oggger - Login successful
+15:21:28.385 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:48)oggger - **** TC002_LoginTest finished ****
+15:24:52.157 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+15:24:53.047 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:27)oggger - Clicked on Register
+15:24:53.056 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:31)oggger - Entering registration details
+15:24:56.478 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Registration is completed
+15:24:56.479 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:65)oggger - ***** TC001_AccountRegistrationTest finished *****
+15:28:04.769 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+15:28:05.403 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:27)oggger - Clicked on Register
+15:28:05.409 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:31)oggger - Entering registration details
+15:28:07.894 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Registration is completed
+15:28:07.894 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:65)oggger - ***** TC001_AccountRegistrationTest finished *****
+15:28:10.355 [main] INFO  testCases.TC002_LoginTest.verify_account_login(TC002_LoginTest.java:16)oggger - **** TC002_LoginTest started ****

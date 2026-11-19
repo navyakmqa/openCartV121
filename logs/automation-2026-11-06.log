@@ -1,0 +1,31 @@
+16:07:59.493 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:61)oggger - element not interactable
+  (Session info: MicrosoftEdge=156.0.4314.58)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.11'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [7f3f10a0e20f741f434592cdee87e0b4, clickElement {id=f.BBE1F2504C430BF0815D9793A604E12A.d.CE9807F8D346346C2361C7C16A2B391B.e.10}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 156.0.4314.58, fedcm:accounts: true, goog:processID: 28716, ms:edgeOptions: {debuggerAddress: localhost:54045}, msedge: {msedgedriverVersion: 156.0.4314.70 (798ba3526c6f..., userDataDir: C:\Users\Navya\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54045/devtoo..., se:cdpVersion: 156.0.4314.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (7f3f10a0e20f741f434592cdee87e0b4)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 7f3f10a0e20f741f434592cdee87e0b4
+16:10:08.981 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+16:10:09.611 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:27)oggger - Clicked on Register
+16:10:09.621 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:31)oggger - Entering registration details
+16:10:12.840 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Registration is completed
+16:10:12.840 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:65)oggger - ***** TC001_AccountRegistrationTest finished *****
+16:10:26.100 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+16:10:26.100 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+16:10:29.264 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:18)oggger - ***** TC001_AccountRegistrationTest started *****
+16:10:29.928 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:27)oggger - Clicked on Register
+16:10:29.937 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:31)oggger - Entering registration details
+16:10:31.806 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Registration is completed
+16:10:31.810 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:65)oggger - ***** TC001_AccountRegistrationTest finished *****
+16:10:36.474 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - Account registration test failed
+16:10:36.474 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:61)oggger - element not interactable
+  (Session info: MicrosoftEdge=156.0.4314.58)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.11'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [623ea0c2bb458f4c418ed0b864f398d0, clickElement {id=f.1F83E8FB3C77652D370F1DD7EE02295A.d.D6761E0A8997CDB996185445773A7571.e.119}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 156.0.4314.58, fedcm:accounts: true, goog:processID: 8424, ms:edgeOptions: {debuggerAddress: localhost:55708}, msedge: {msedgedriverVersion: 156.0.4314.58 (7806b68d20d1..., userDataDir: C:\Users\Navya\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55708/devtoo..., se:cdpVersion: 156.0.4314.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (623ea0c2bb458f4c418ed0b864f398d0)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 623ea0c2bb458f4c418ed0b864f398d0
